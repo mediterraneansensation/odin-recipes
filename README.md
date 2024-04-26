@@ -1,0 +1,1 @@
+this is my first html attempt as a self taught web developer. Here I'll try to develo a recipes website dedicated to my girlfriend's cuisine who's supporting me and my belly in this journey! 
